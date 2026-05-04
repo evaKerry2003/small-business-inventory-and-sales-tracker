@@ -1,0 +1,39 @@
+table{
+    color:black;
+    padding:40px;
+    justify-content: space-around;
+    width:80%;
+    align-items: center;
+ /* background-color: beige; */
+}
+th, td{
+    padding: 30px;
+    font-size:20px;
+   align-items:center;
+    /* border: 2px solid black; */
+    background-color: aliceblue;
+}
+ 
+.dropdown-menu button{
+    display: block;
+    padding:10px;
+    margin:10px;
+}
+.add-btn{
+    padding: 10px;
+    margin:10px
+}
+.search{
+    float:right;
+    padding:20px;
+    border-style: ridge;
+    margin:2px;
+    border-radius: 10px;
+}
+form, input{
+    padding:10px;
+    margin:10px;
+    border-style: ridge;
+    border-radius: 10px;
+    align-items: center;
+justify-content: center;}

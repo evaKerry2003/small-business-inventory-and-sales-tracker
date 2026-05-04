@@ -1,0 +1,23 @@
+.top-nav{
+  display:flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 20px;
+  background-color:aliceblue;
+  height:100px
+}
+.nav-links{
+  display: flex;
+  gap:20px;
+  list-style-type: none;
+}
+.logo-Link img{
+  height:80px;
+  width:auto;
+}
+.nav-item{
+  list-style-type: none;
+  text-decoration: none;
+  color:black;
+  font-size: 20px;
+}
