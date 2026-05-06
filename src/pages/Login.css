@@ -1,0 +1,17 @@
+.login-page {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    /*background-color:alice-blue:*/
+}
+.login-page button {
+    width: 150px;
+    cursor: pointer;
+    font-size: 20px;
+}
+.login-page input {
+    margin: 10px;
+    width: 250px;
+}
